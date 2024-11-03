@@ -52,7 +52,7 @@ We generated over +22,000 tasks using both local and API-based LLMs, implementin
 ## 4. Project Life Cycle Diagram
 *Below is the project life cycle diagram that outlines the process from data generation to deployment:*
 
-![Untitled Diagram drawio](https://github.com/user-attachments/assets/5e87b749-c6bb-4607-9265-af4c47b2fec4)
+![Untitled Diagram drawio](pic/381109767-5e87b749-c6bb-4607-9265-af4c47b2fec4.png)
 
 
 ---
