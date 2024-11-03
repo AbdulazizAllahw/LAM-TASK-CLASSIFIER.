@@ -95,3 +95,10 @@ To improve model performance, we applied:
 
 ## 8. Conclusion
 The LM-ACTION project successfully developed a robust Task Classification Model leveraging BERT, enabling the interpretation of natural language commands into executable actions. By generating a diverse dataset and applying sophisticated modeling techniques, we have laid the groundwork for future enhancements, including multi-lingual support and expanded data coverage, which can significantly improve the model's accuracy and usability. The integration of this classifier into the LAM system positions it as a valuable tool in the realm of AI-driven task execution.
+
+
+---
+
+## 9.presntions 
+
+(https://www.canva.com/design/DAGUwiQ5zxo/TUJHecLCwN0DxwpzFq3akg/edit?utm_content=DAGUwiQ5zxo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
