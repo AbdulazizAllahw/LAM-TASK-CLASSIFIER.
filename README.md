@@ -99,6 +99,6 @@ The LM-ACTION project successfully developed a robust Task Classification Model 
 
 ---
 
-## 9.presntions 
+## 9.Presentations 
 
-(https://www.canva.com/design/DAGUwiQ5zxo/TUJHecLCwN0DxwpzFq3akg/edit?utm_content=DAGUwiQ5zxo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+[Presentations](https://www.canva.com/design/DAGUwiQ5zxo/TUJHecLCwN0DxwpzFq3akg/edit?utm_content=DAGUwiQ5zxo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
