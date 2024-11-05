@@ -3,6 +3,7 @@ import torch
 import json
 import pandas as pd
 
+
 def chat_interface(model, tokenizer, num_labels, label_encoders):
     st.title("LAM Task Classifier")
 

@@ -3,13 +3,13 @@ import sys
 import streamlit as st
 import torch
 from transformers import BertTokenizer, BertModel
-from app.streamlit import chat_interface
+from app.streamlit.chat_interface import chat_interface
 
 # Set Streamlit page config
 st.set_page_config(page_title="LAM Task Classifier", page_icon="🤖", layout="wide")
 
 # Define the path to your preloaded model and tokenizer
-MODEL_PATH = "/home/amr/code/FarisZahrani/lam-task-classifier/app/best_bert_multi_clean_data2_output_model.pth"
+MODEL_PATH = "/home/raed_basahih/lam-githup/app/streamlit/best_bert_multi_clean_data2_output_model (1).pth"
 
 # Preload the model (assuming you already have this done)
 @st.cache_resource
